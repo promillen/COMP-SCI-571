@@ -1,0 +1,18 @@
+.buddy-summary img {
+    aspect-ratio: 1 / 1;
+}
+
+.buddy-summary {
+    margin-bottom: 20px;   /* Spacing between cards */
+}
+
+.buddy-summary h3 {
+    text-align: center;    /* Center-aligning the name */
+    font-size: 1.5rem;     /* Font size adjustment for the name */
+    margin-top: 10px;      /* Margin for spacing */
+}
+
+.buddy-summary button {
+    margin: 5px auto;      /* Center-aligning the button with automatic horizontal margin */
+    width: 80%;            /* Width adjustment for the button */
+}
